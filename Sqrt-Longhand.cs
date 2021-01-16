@@ -46,8 +46,12 @@ namespace SquareRoot
             bool interactive = (args.Length == 0);
             if (interactive)
             {
-                Console.WriteLine("Square Root Longhand Solver");
-                Console.WriteLine();
+                Console.WriteLine(@"
+Sqrt-Longhand.cs - Compute Square Root by Longhand method - Version 1.0
+Copyright(c) 2020-2021 by David R.Van Wagner
+davevw.com
+github.com/davervw
+");
                 Console.WriteLine("Command line usage example");
                 Console.WriteLine("   Sqrt-Longhand.exe 1234567890.12345678901234567890 True");
                 Console.WriteLine("(Boolean in usage specifies whether to show work)");
