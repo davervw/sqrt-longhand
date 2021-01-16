@@ -5,13 +5,13 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SquareRoot")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Sqrt-Longhand")]
+[assembly: AssemblyDescription("Compute Square Root by Longhand method")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SquareRoot")]
-[assembly: AssemblyCopyright("Copyright ©  2020")]
-[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCompany("davevw.com")]
+[assembly: AssemblyProduct("Sqrt-Longhand")]
+[assembly: AssemblyCopyright("Copyright © 2021 David R. Van Wagner")]
+[assembly: AssemblyTrademark("MIT LICENSE")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible
